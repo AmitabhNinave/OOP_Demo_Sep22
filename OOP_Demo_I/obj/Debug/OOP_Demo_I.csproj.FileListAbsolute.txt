@@ -1,0 +1,7 @@
+F:\Trainings\Training_X\CapG_DN_OL_23-08-22\CSharp\Demos\OOP_Demo_I\OOP_Demo_I\bin\Debug\OOP_Demo_I.exe.config
+F:\Trainings\Training_X\CapG_DN_OL_23-08-22\CSharp\Demos\OOP_Demo_I\OOP_Demo_I\bin\Debug\OOP_Demo_I.exe
+F:\Trainings\Training_X\CapG_DN_OL_23-08-22\CSharp\Demos\OOP_Demo_I\OOP_Demo_I\bin\Debug\OOP_Demo_I.pdb
+F:\Trainings\Training_X\CapG_DN_OL_23-08-22\CSharp\Demos\OOP_Demo_I\OOP_Demo_I\obj\Debug\OOP_Demo_I.csprojAssemblyReference.cache
+F:\Trainings\Training_X\CapG_DN_OL_23-08-22\CSharp\Demos\OOP_Demo_I\OOP_Demo_I\obj\Debug\OOP_Demo_I.csproj.CoreCompileInputs.cache
+F:\Trainings\Training_X\CapG_DN_OL_23-08-22\CSharp\Demos\OOP_Demo_I\OOP_Demo_I\obj\Debug\OOP_Demo_I.exe
+F:\Trainings\Training_X\CapG_DN_OL_23-08-22\CSharp\Demos\OOP_Demo_I\OOP_Demo_I\obj\Debug\OOP_Demo_I.pdb
