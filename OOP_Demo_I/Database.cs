@@ -12,7 +12,7 @@ namespace OOP_Demo_I
         {
             get
             {
-                return @"server =.\sqlexpress;database=EmployeeDB;integrated security=true";
+                return @"server =.;database=EmployeeDB;integrated security=true";
             }
         }
     }
